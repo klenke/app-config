@@ -1,0 +1,12 @@
+security:
+  basic:
+    enabled: false
+
+managemet:
+  security:
+    enabled: false
+
+logging:
+  level:
+    io:
+      pivotal: DEBUG
